@@ -1,0 +1,5 @@
+tensorflow
+serial
+utils
+opencv-python
+pyautogui
